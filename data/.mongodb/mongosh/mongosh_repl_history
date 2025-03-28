@@ -1,0 +1,10 @@
+db.find()
+db.authentification_service.find()
+db.collection('produit_Service').find()
+db.collection('Authentification_Service').find()
+db.collection('Authentification_Service).find()
+db.Authentification_Service.find()
+use Authentification_Service
+show Authentification_Service
+show databases
+show da
